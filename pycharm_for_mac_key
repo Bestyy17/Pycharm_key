@@ -1,9 +1,17 @@
 已实践的快捷键：
 
 文件操作：
-  shift + command + F ###全局搜索
+  cmd + f 当前文件搜索（回车下一个 shift回车上一个）
+  cmd + r 当前文件替换
+  
+  shift + cmd + f 全局搜索
+  shift + cmd + R 全局替换
+  
+界面操作：
+  opt + cmd + l 代码块对齐
 
-
+python：
+  command + B 跳转到对应函数或类
 
 **************华丽的分界线*********************
 
@@ -29,11 +37,7 @@ Python文件篇：
 find usage：opt + F7
 删除当前行：cmd backspace 
 
-cmd + f 当前文件搜索（回车下一个 shift回车上一个）
 
-cmd + r 当前文件替换
-shift + cmd + f 全局搜索
-shift + cmd + R 全局替换
 cmd+o 搜索class
 shift + cmd + o 搜索文件
 opt + cmd + o 搜索符号（函数等)
@@ -53,7 +57,7 @@ alt + F1 定位编辑文件所在位置:
 cmd + F6 更改变量
 opt + cmd + t 指定代码被注释语句或者逻辑结构、函数包围
 Tab / Shift + Tab 缩进、不缩进当前行
-opt + cmd + l 代码块对齐
+
 cmd+d 在下一行复制本行的内容
 
 
